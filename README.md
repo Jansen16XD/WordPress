@@ -30,3 +30,5 @@ Hice otra página explicando qué es la Brawl Stars Championship, que es el torn
 ## Conclusión
 
 Hice esta página web para compartir cosas sobre Brawl Stars, ayudar a otros que están empezando y hablar del juego que más me gusta. Me gustó mucho trabajar en WordPress y pude hacer que mi web se vea chula.
+
+Mi web: http://brawlstarsguiaandhelp.kesug.com/
