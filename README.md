@@ -4,18 +4,29 @@
 
 Lo que hice fue usar unos comandos que habia en el GitHub para poder hacer la instalacion del WordPress, pero antes usamos el InsardVDI, que era la clave para poder usar el WordPress.
 
-## Instalar el WordPress
+## Página web de Brawl Stars en WordPress
 
-Una vez estuve en el InsardVDI, lo que hice fue es irme al GitHub del Perfil del Rusben para poder buscar un repositorio suyo, que indicaba cada paso para poder instalarse el WordPress. 
+Para empezar, busqué un tema que quedara bien con los colores y el estilo de Brawl Stars. Elegí uno que se viera divertido y colorido, como el juego.
 
-## Terminal en InsardVDI
+# Lo que hice en mi web:
 
-Ahora que estoy en el InsardVDI lo que hice fue aparte de ir al GitHub del perfil del Rusben, fue abrir la Terminal que puedes meter los comandos segun que diga el repositorio del GitHub.
+### Guía con mapa
 
-## Crearte una cuenta en el WordPress
+Hice una página donde puse una guía para los nuevos jugadores, explicando lo básico del juego, cómo se juega y qué hacer en cada modo. También puse un mapa para que se viera dónde se juega cada modo y qué mapas hay, como por ejemplo Atrapagemas o Supervivencia.
 
-Una vez que hice todos los pasos que ponia en el repositorio del GitHub, ya tendria el WordPress, pero antes de empezar a utilizarlo, tienes que crearte una cuenta, que te permitira usar segun que proyecto quieras hacer.
+### Brawlers
+
+Creé otra página donde hablo de los brawlers (los personajes del juego). Puse algunos de los más conocidos, como Shelly, Colt o El Primo, y expliqué qué hacen, sus ataques y cuándo usarlos.
+
+### Rarezas
+
+También puse información sobre las rarezas de los brawlers: los comunes, raros, súper raros, épicos, míticos y legendarios. Lo hice para que la gente entienda qué tan difíciles son de conseguir.
+
+### La Championship
+
+Hice otra página explicando qué es la Brawl Stars Championship, que es el torneo oficial del juego. Expliqué cómo funciona, quién puede jugar y por qué es tan importante. También puse imágenes y enlaces para que vean más info si quieren.
 
 
+## Conclusión
 
-
+Hice esta página web para compartir cosas sobre Brawl Stars, ayudar a otros que están empezando y hablar del juego que más me gusta. Me gustó mucho trabajar en WordPress y pude hacer que mi web se vea chula.
